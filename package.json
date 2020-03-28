@@ -2,7 +2,7 @@
     "name": "Mellow",
     "displayName": "Mellow Theme",
     "publisher": "SRMKZILLA",
-    "description": "VS Code Theme by SRMKZILLA",
+    "description": "🎨 Mellow — An artistic dark theme for VSCode",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.43.0"
@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "/images/srmkzilla_logo.png",
     "contributes": {
         "themes": [
             {

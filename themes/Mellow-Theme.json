@@ -4,7 +4,6 @@
 	"editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
 	"colors": {
 		"editor.background": "#101216",
-		"editor.foreground": "#000",
 		"tab.activeBackground": "#101216",
 		"sideBarTitle.foreground": "#6D6D6D",
 		"editor.selectionBackground": "#202125",
