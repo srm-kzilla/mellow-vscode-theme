@@ -1,0 +1,26 @@
+{
+    "name": "Mellow",
+    "displayName": "Mellow Theme",
+    "publisher": "SRMKZILLA",
+    "description": "VS Code Theme by SRMKZILLA",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mellow Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mellow-Theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/srm-kzilla/mellow-vscode-theme.git"
+    }
+}
