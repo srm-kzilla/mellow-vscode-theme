@@ -10,7 +10,11 @@
     "categories": [
         "Themes"
     ],
-    "icon": "/images/srmkzilla_logo.png",
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#101216",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
