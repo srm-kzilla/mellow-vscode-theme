@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "logo.png",
+    "icon": "Screens/mellow_logo.png",
     "galleryBanner": {
         "color": "#101216",
         "theme": "dark"
