@@ -7,7 +7,7 @@
 
 <br>
 <p align="center">
-An artistic dark theme for VS Code. 🎨
+An artistic dark theme for Visual Studio Code. 🎨
 </p>
 <p align="center">
 crafted with <span style="color: #8b0000;">&hearts;</span> by your friends on the <a href="https://srmkzilla.net">SRMKZILLA</a> team.
@@ -15,16 +15,23 @@ crafted with <span style="color: #8b0000;">&hearts;</span> by your friends on th
 <p align="center">
     <img src="https://img.shields.io/badge/verion-0.0.1-yellowgreen" alt="version 0.0.1"/>
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license MIT"/>
-    <img src="https://img.shields.io/badge/platform-VS%20Code-lightgrey" alt="platform VS Code"/>
+    <img src="https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue" alt="platform Visual Studio Code"/>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/visual-studio-marketplace/i/SRMKZILLA.Mellow" alt="VS Marketplace Installs" />
-    <img src="https://img.shields.io/visual-studio-marketplace/d/SRMKZILLA.Mellow" alt="VS Marketplace Downloads" />
-    <img src="https://img.shields.io/visual-studio-marketplace/r/SRMKZILLA.Mellow" alt="VS Marketplace Rating" />
-    <img src="https://img.shields.io/visual-studio-marketplace/stars/SRMKZILLA.Mellow" alt="VS Marketplace Stars" />
+    <img src="https://img.shields.io/visual-studio-marketplace/i/SRMKZILLA.Mellow" alt="Visual Studio Marketplace Installs" />
+    <img src="https://img.shields.io/visual-studio-marketplace/d/SRMKZILLA.Mellow" alt="Visual Studio Marketplace Downloads" />
+    <img src="https://img.shields.io/visual-studio-marketplace/r/SRMKZILLA.Mellow" alt="Visual Studio Marketplace Rating" />
+    <img src="https://img.shields.io/visual-studio-marketplace/stars/SRMKZILLA.Mellow" alt="Visual Studio Marketplace Stars" />
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/author-SRMKZILLA-orange" alt="author SRMKZILLA"/>
+</p>
+
+<p align="center">
+
+<a href="https://marketplace.visualstudio.com/items?itemName=SRMKZILLA.Mellow" style="background-color: #107c10; color: #FFFFFF; min-width: 120px; border: 1px solid #FFFFFF; padding: 16px; font-size: 14px;">
+Find on Visual Studio Marketplace
+</a>
 </p>
 
 ## Description 🗣
