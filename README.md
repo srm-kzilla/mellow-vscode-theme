@@ -34,7 +34,7 @@ A new world to code in. 🎉
 ## Preview 📺
 
 <div align="center">
-  <img alt="Screenshot" src="Screens/screenshot.png" />
+  <img alt="Screenshot" src="Screens/screenshot.PNG" />
 </div>
 
 ## Installation 🔧
