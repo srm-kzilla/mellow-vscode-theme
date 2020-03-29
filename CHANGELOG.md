@@ -6,4 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.1] - 2020-03-30
+
+### Changed
+
+- Make README great again!
+
+### Fixed
+
+- Fix repository documentation
+- Update contributing guidelines

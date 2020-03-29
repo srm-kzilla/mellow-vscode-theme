@@ -1,31 +1,31 @@
 {
-    "name": "Mellow",
-    "displayName": "Mellow Theme",
-    "publisher": "SRMKZILLA",
-    "description": "🎨 Mellow — An artistic dark theme for VSCode",
-    "version": "0.1.0",
-    "engines": {
-        "vscode": "^1.43.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "Screens/mellow_logo.png",
-    "galleryBanner": {
-        "color": "#101216",
-        "theme": "dark"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Mellow Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Mellow-Theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/srm-kzilla/mellow-vscode-theme.git"
-    }
+  "name": "Mellow",
+  "displayName": "Mellow Theme",
+  "publisher": "SRMKZILLA",
+  "description": "An artistic dark theme for Visual Studio Code. 🎨",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "Screens/mellow_icon.png",
+  "galleryBanner": {
+    "color": "#101216",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mellow Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mellow-Theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srm-kzilla/mellow-vscode-theme.git"
+  }
 }
