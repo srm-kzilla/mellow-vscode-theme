@@ -45,7 +45,7 @@ A new world to code in. 🎉
 4.  Search for `SRMKZILLA.Mellow`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload Code
-7.  From the menu bar click: Code > Preferences > Color Theme > Pick Mellow
+7.  From the menu bar click: `Code > Preferences > Color Theme > Pick Mellow`
 
 ## License 📜
 
