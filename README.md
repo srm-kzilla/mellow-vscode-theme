@@ -13,7 +13,7 @@ An artistic dark theme for Visual Studio Code. 🎨
 crafted with <span style="color: #8b0000;">&hearts;</span> by your friends on the <a href="https://srmkzilla.net">SRMKZILLA</a> team.
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/verion-0.0.1-yellowgreen" alt="version 0.0.1"/>
+    <img src="https://img.shields.io/badge/version-0.0.1-yellowgreen" alt="version 0.0.1"/>
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license MIT"/>
     <img src="https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue" alt="platform Visual Studio Code"/>
 </p>
