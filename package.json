@@ -3,7 +3,7 @@
   "displayName": "Mellow Theme",
   "publisher": "SRMKZILLA",
   "description": "An artistic dark theme for Visual Studio Code. 🎨",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.43.0"
   },
